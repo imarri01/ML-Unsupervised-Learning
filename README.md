@@ -135,13 +135,7 @@ We welcome contributions to enhance this project! To contribute, please follow t
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 💼 Acknowledgements
+## 💼 References and Docs
 
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [Pandas](https://pandas.pydata.org/)
