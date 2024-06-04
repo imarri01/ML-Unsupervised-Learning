@@ -9,7 +9,7 @@ Welcome to the **Unsupervised Learning - Project** notebook! This project explor
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-introduction)
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
