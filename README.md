@@ -18,8 +18,7 @@ Welcome to the **Unsupervised Learning - Project** notebook! This project explor
 - [Results](#results)
 - [Conclusions](#conclusions)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ---
 
