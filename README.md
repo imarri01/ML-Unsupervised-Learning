@@ -10,14 +10,14 @@ Welcome to the **Unsupervised Learning - Project** notebook! This project explor
 ## 📋 Table of Contents
 
 - [Introduction](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-introduction)
-- [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Project Overview](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-project-overview)
+- [Getting Started](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-getting-started)
+  - [Prerequisites](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#prerequisites)
+  - [Installation](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Conclusions](#conclusions)
-- [Contributing](#contributing)
+- [Results](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-results)
+- [Key Findings](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#key-findings)
+- [Contributing](https://github.com/imarri01/ML-Unsupervised-Learning?tab=readme-ov-file#-contributing)
 
 
 ---
