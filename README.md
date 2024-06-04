@@ -1,5 +1,3 @@
-Sure, here is a rewritten version of the `README.md`:
-
 
 # 🧠 Unsupervised Learning - Project
 
